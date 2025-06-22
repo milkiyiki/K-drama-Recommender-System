@@ -54,8 +54,8 @@ Proyek ini cocok untuk studio produksi, penulis naskah, atau stasiun TV yang ing
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/yourusername/kdrama-recommender.git
-   cd kdrama-recommender
+   git clone https://github.com/milkiyiki/K-drama-Recommender-System.git
+   cd K-drama-Recommender-System
    ```
 
 2. Jalankan di Jupyter Notebook:
